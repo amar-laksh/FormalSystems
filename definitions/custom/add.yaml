@@ -1,0 +1,5 @@
+
+axioms:
+        - x are -+, ADDINGxAND-GIVESx-
+rules:
+        - x y z are -+, ADDINGxANDyGIVESz => ADDINGxANDy-GIVESz-

@@ -1,0 +1,4 @@
+axioms:
+        - x are .*, INCx
+rules:
+        - x are .*, INCx => INCx-

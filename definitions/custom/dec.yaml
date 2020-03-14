@@ -1,0 +1,4 @@
+axioms:
+        - x are -+, DEC------
+rules:
+        - x are -+, DECx- => DECx
